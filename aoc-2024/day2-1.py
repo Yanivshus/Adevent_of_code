@@ -19,7 +19,7 @@ def check_rules(ls : list):
 
 
 
-
+S
 def main():
     file = open("day2-input.txt").readlines()
     total = 0
